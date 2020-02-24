@@ -7,12 +7,6 @@ int red_LED = D3; //    LED IF NEED OF WATER
 int thresholdValue =800; 
 //char d11[32];
 char s22[32];
-<<<<<<< HEAD
-#life is good
-=======
-#i made chage in git hub
->>>>>>> 189dfadab28bdb0c5dc109f69fd411d752ffdc25
-
 //===================pass and ssid========================================================================================
 const char* ssid = "satyam";
 const char* password = "satyam1020";
